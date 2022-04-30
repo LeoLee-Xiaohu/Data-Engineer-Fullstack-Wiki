@@ -91,8 +91,7 @@
             - Isolation 绝缘性：multiple users 使用接入到数据库时，用户与用户之间是隔断的，一个用户的session不会影响别人的访问。
             - Durability 持续性：分software和hardware两部分，软件出现问题，对底层的数据是没有影响的。
     - 3、Advantages of DBMS
-        - 
-            
+        -  
             ![https://api2.mubu.com/v3/document_image/80733c87-58a2-4518-b72a-72be299ec577-14086676.jpg](https://api2.mubu.com/v3/document_image/80733c87-58a2-4518-b72a-72be299ec577-14086676.jpg)
             
     - 4、Disadvantages of DBMS
