@@ -48,12 +48,12 @@
         - ACSII & UTF8 & UTF16
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg](https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg](https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg)
                 
         - Data Storage Measurements
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg](https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg](https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg)
                 
 - 3. DBMS
     - 1、什么是DBMS？
@@ -113,7 +113,7 @@
         - 1-tier DBMS architecture
             - 一台机器完成全部工作：eg个人电脑
                 
-                ![https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg](https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg](https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg)
                 
             - 很少用于production中
         - 2-tier DBMS architecture
@@ -130,7 +130,7 @@
             - 每一层万一出问题时，我们可以在对应的层上fix， 也运用到big data上面了
             - 结构图
                 
-                ![https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg](https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg](https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg)
                 
             - 3-tier schema is an extension of the 2-tier architecture. 3-tier architecture has following
                 - layersPresentation layer (your PC, Tablet, Mobile, etc.)
@@ -206,19 +206,19 @@
         - 1. Conceptual schema， 最high level的，是很rough的design
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg](https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg](https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg)
                 
         - 2. Logical schema， 做完了Conceptual schema, relationship具象化出来
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg](https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg](https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg)
                 
         - 3. Physical schema， 完整版表达，给Developer使用
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg](https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg](https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg)
                 
-                ![https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg](https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg](https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg)
                 
 - 6. ER Model:
     - 1.Basic concept
