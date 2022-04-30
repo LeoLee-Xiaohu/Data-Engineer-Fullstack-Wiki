@@ -99,26 +99,24 @@
             ![https://api2.mubu.com/v3/document_image/c70d9bef-fd58-4d63-b6d6-9149337edcaf-14086676.jpg](https://api2.mubu.com/v3/document_image/c70d9bef-fd58-4d63-b6d6-9149337edcaf-14086676.jpg)
             
     - 5、Components of DBMS
-        - 
+![https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg](https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg)
             
-            ![https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg](https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg](https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg)
             
-            ![https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg](https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg)
-            
-            ![https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg](https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg](https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg)
             
     - 6、3种database DBMS architecture
         - 1-tier DBMS architecture
             - 一台机器完成全部工作：eg个人电脑
                 
-             ![https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg](https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg](https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg)
                 
             - 很少用于production中
         - 2-tier DBMS architecture
             - business 中用的最多，有client 端和server端
             - 结构图
                 
-                ![https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg](https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg](https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg)
                 
             - presentation layers runs on a client(PC, Mobile, Tablet, etc)
             - Data is store on a server.
@@ -128,7 +126,7 @@
             - 每一层万一出问题时，我们可以在对应的层上fix， 也运用到big data上面了
             - 结构图
                 
-             ![https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg](https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg](https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg)
                 
             - 3-tier schema is an extension of the 2-tier architecture. 3-tier architecture has following
                 - layersPresentation layer (your PC, Tablet, Mobile, etc.)
