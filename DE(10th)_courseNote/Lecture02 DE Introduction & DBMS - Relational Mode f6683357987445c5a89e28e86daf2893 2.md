@@ -48,12 +48,12 @@
         - ACSII & UTF8 & UTF16
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg](https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg](https://api2.mubu.com/v3/document_image/2d7b3713-5b16-45d0-8175-f62c109bb961-14086676.jpg)
                 
         - Data Storage Measurements
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg](https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg](https://api2.mubu.com/v3/document_image/933446f7-0b55-4008-b001-3c4877bc8e1f-14086676.jpg)
                 
 - 3. DBMS
     - 1、什么是DBMS？
@@ -91,9 +91,7 @@
             - Isolation 绝缘性：multiple users 使用接入到数据库时，用户与用户之间是隔断的，一个用户的session不会影响别人的访问。
             - Durability 持续性：分software和hardware两部分，软件出现问题，对底层的数据是没有影响的。
     - 3、Advantages of DBMS
-        - 
-            
-            ![https://api2.mubu.com/v3/document_image/80733c87-58a2-4518-b72a-72be299ec577-14086676.jpg](https://api2.mubu.com/v3/document_image/80733c87-58a2-4518-b72a-72be299ec577-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/80733c87-58a2-4518-b72a-72be299ec577-14086676.jpg](https://api2.mubu.com/v3/document_image/80733c87-58a2-4518-b72a-72be299ec577-14086676.jpg)
             
     - 4、Disadvantages of DBMS
         - 贵！！
@@ -101,26 +99,24 @@
             ![https://api2.mubu.com/v3/document_image/c70d9bef-fd58-4d63-b6d6-9149337edcaf-14086676.jpg](https://api2.mubu.com/v3/document_image/c70d9bef-fd58-4d63-b6d6-9149337edcaf-14086676.jpg)
             
     - 5、Components of DBMS
-        - 
+![https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg](https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg)
             
-            ![https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg](https://api2.mubu.com/v3/document_image/793ab2b0-9222-4316-8f38-55c7d7f519f9-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg](https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg)
             
-            ![https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg](https://api2.mubu.com/v3/document_image/38c3ca37-1e64-4585-a9f1-3b175aa7b627-14086676.jpg)
-            
-            ![https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg](https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg](https://api2.mubu.com/v3/document_image/9a6b3958-d03e-436b-9f67-6771149f82fb-14086676.jpg)
             
     - 6、3种database DBMS architecture
         - 1-tier DBMS architecture
             - 一台机器完成全部工作：eg个人电脑
                 
-                ![https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg](https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg](https://api2.mubu.com/v3/document_image/403b686e-2e1b-4b6d-a1c1-bb0873dbf3b4-14086676.jpg)
                 
             - 很少用于production中
         - 2-tier DBMS architecture
             - business 中用的最多，有client 端和server端
             - 结构图
                 
-                ![https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg](https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg](https://api2.mubu.com/v3/document_image/d3243d05-ef7c-4267-8224-58705ca89e90-14086676.jpg)
                 
             - presentation layers runs on a client(PC, Mobile, Tablet, etc)
             - Data is store on a server.
@@ -130,7 +126,7 @@
             - 每一层万一出问题时，我们可以在对应的层上fix， 也运用到big data上面了
             - 结构图
                 
-                ![https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg](https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg)
+![https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg](https://api2.mubu.com/v3/document_image/746b4939-59ae-4ced-9f3c-2fda5beba603-14086676.jpg)
                 
             - 3-tier schema is an extension of the 2-tier architecture. 3-tier architecture has following
                 - layersPresentation layer (your PC, Tablet, Mobile, etc.)
@@ -206,19 +202,19 @@
         - 1. Conceptual schema， 最high level的，是很rough的design
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg](https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg](https://api2.mubu.com/v3/document_image/446008a7-db71-4441-9fe0-deb4261645d7-14086676.jpg)
                 
         - 2. Logical schema， 做完了Conceptual schema, relationship具象化出来
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg](https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg](https://api2.mubu.com/v3/document_image/f1929b2f-3413-4358-8a7e-088c7b020b8b-14086676.jpg)
                 
         - 3. Physical schema， 完整版表达，给Developer使用
             - 
                 
-                ![https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg](https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg](https://api2.mubu.com/v3/document_image/8c870103-19be-48d9-9669-beca17a4782b-14086676.jpg)
                 
-                ![https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg](https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg)
+             ![https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg](https://api2.mubu.com/v3/document_image/e91f71a2-9769-40be-a5e9-39f9e51e5714-14086676.jpg)
                 
 - 6. ER Model:
     - 1.Basic concept
