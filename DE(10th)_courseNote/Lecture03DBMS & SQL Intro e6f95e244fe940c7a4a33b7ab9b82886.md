@@ -9,6 +9,8 @@
     - 额外知识补充
         - 1. schema的通俗解释：
             - 我们可以可以把Database看作是一个大仓库，仓库分了很多很多的房间，Schema就是其中的房间，一个Schema代表一个房间，Table可以看作是每个Schema中的床，Table（床）就被放入每个房间中，不能放置在房间之外，那岂不是晚上睡觉无家可归了J。，然后床上可以放置很多物品，就好比Table上可以放置很多列和行一样，数据库中存储数据的基本单元是Table，现实中每个仓库放置物品的基本单位就是床， User就是每个Schema的主人，（所以Schema包含的是Object，而不是User），其实User是对应与数据库的（即User是每个对应数据库的主人），既然有操作数据库（仓库）的权利，就肯定有操作数据库中每个Schema（房间）的权利，就是说每个数据库映射的User有每个Schema（房间）的钥匙，换句话说，如果他是某个仓库的主人，那么这个仓库的使用权和仓库中的所有东西都是他的（包括房间），他有完全的操作权，可以扔掉不用的东西从每个房间，也可以放置一些有用的东西到某一个房间，呵呵，和现实也太相似了吧。我还可以给User分配具体的权限，也就是他到某一个房间能做些什么，是只能看（Read-Only），还是可以像主人一样有所有的控制权（R/W），这个就要看这个User所对应的角色Role了，至于分配权限的问题，我留在以后单独的blog中详述。比喻到这里，相信大家都清楚了吧。来源：[https://www.cnblogs.com/NewPigJack/p/8000904.html](https://www.cnblogs.com/NewPigJack/p/8000904.html)
+         - 2. 文章--案例介绍 Normalization：[https://mp.weixin.qq.com/s?__biz=MzkxMzI2NTEyMg==&mid=2247483712&idx=1&sn=cc3fe816f556b666ec9a425783704970&chksm=c10119cdf67690db76ec67b30a1683273983495386e715dd44b379006d523b86b264c7dd7a6b&token=698814788&lang=zh_CN#rd](https://mp.weixin.qq.com/s?__biz=MzkxMzI2NTEyMg==&mid=2247483712&idx=1&sn=cc3fe816f556b666ec9a425783704970&chksm=c10119cdf67690db76ec67b30a1683273983495386e715dd44b379006d523b86b264c7dd7a6b&token=698814788&lang=zh_CN#rd)
+        
 - 1. Codd's 12 rule of RDBMS
     - 做的系统要符合科德12准则，完整的RDBMS的特性，解释为什么要装hive，spark
     - Rule 1: Information Rule
