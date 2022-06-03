@@ -3,7 +3,8 @@
 - 0.导读
     - CTE recursive 也是在lecture15 讲的
     - 2，3，5是重点，必须要很好的掌握
-        - 
+        - ![C5 Lecture 14  Data warehouse1](https://user-images.githubusercontent.com/74084269/170801096-0f4c7a6e-7770-48d3-85af-b102c9319348.png)
+
             
             ![https://api2.mubu.com/v3/document_image/68c72105-0c86-4ab5-b38f-e390172fad70-14086676.jpg](https://api2.mubu.com/v3/document_image/68c72105-0c86-4ab5-b38f-e390172fad70-14086676.jpg)
             
