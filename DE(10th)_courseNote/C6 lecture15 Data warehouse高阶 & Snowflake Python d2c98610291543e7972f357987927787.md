@@ -1,4 +1,4 @@
-# C6 lecture15 Data warehouse高阶 & Snowflake Python
+# lecture15 Data warehouse高阶 & Snowflake Python
 
 - 1.Advanced Fact Table Techniques
     - 1. Fact table surrogate key（SK）
